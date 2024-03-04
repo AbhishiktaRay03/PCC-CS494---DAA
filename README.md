@@ -1,10 +1,10 @@
-# PCC-CS391-C-CODES
-Here are some C programs that I did for the PCC-CS391 assignments of the 3rd semester in the 2nd year curriculum of BTech CSE along with some practice codes of my own.
+# PCC-CS494-C-CODES
+Here are some C programs that I did for the PCC-CS494 assignments of the 4th semester in the 2nd year curriculum of BTech CSE.
 
 ## How to Install
 
 1. Create a ```C``` virtual environment. 
-2. Clone the repo : ```git clone https://github.com/AbhishiktaRay03/PCC-CS391.git``` or download the repository.
+2. Clone the repo : ```git clone https://github.com/AbhishiktaRay03/PCC-CS494---DAA.git``` or download the repository.
 3. Go to the cloned/downloaded directory ``` cd <folder_name> ```.  
 4. Run ``` pip3 install gcc ```.
 5. And now you can run the example scripts or create your own scripts.  
