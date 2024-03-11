@@ -1,5 +1,5 @@
 # PCC-CS494-C-CODES
-Here are some C programs that I did for the PCC-CS494 assignments of the 4th semester in the 2nd year curriculum of BTech CSE.
+Here are some C programs that I did for the PCC-CS494 assignments of the 4th semester in the 2nd year curriculum of B.Tech CSE.
 
 ## How to Install
 
